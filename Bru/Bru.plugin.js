@@ -15,7 +15,7 @@ module.exports = (() => {
 			}],
 			version: "1.0.0",
 			description: "Broken Plugin",
-			github: "https://github.com/Lonk12/BetterDiscordPlugins/blob/main/MemeSounds/MemeSounds.plugin.js",
+			github: "https://github.com/SuperNovaCollision/Idk/blob/main/Bru/Bru.plugin.js",
 			github_raw: "https://raw.githubusercontent.com/Lonk12/BetterDiscordPlugins/main/MemeSounds/MemeSounds.plugin.js"
 		},
 		/* Settings */
